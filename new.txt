@@ -1,0 +1,5 @@
+user info
+Full name: Samoylov Vadim Nickolaevich
+Age: 28
+Pets: 0
+Future salary: 1000
