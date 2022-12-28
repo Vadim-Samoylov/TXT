@@ -1,0 +1,6 @@
+user_preferences:{
+"famous film":"Avatar",
+"famous serial":"Bones",
+"food":"potato soup",
+"seasons":"summer",
+"country for travel":"USA"

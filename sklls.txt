@@ -1,0 +1,20 @@
+user_hard_skills: {
+1:"sniffer traffic"
+2:"terminal"
+3:"Git"
+4:"Postman"
+5:"Devtools"
+6:"Python"
+
+user_soft_skills : 
+1:"communicate"
+2:"education"
+3:"assistance"
+
+user_tools : 
+1 : "Charles"
+2 : "Git Bash"
+3 : "Git"
+4 : "Postman"
+5 : "Devtools"
+6 : "PyCharm"
